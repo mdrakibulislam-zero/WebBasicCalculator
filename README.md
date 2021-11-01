@@ -1,5 +1,5 @@
 ## Web Basic Calculator:
-This is a simple basic calculator based on Web which made with HTML, CSS and JavaScript.
+This is a simple basic calculator based on Web which made with HTML, CSS and JavaScript. It's able to do the basic mathematical calculations.
 
 
 ## Outcome:
@@ -8,7 +8,7 @@ This is a simple basic calculator based on Web which made with HTML, CSS and Jav
 
 
 ## What Have I Done:
-I've made this basic calculator using HTML, CSS and JavaScript. It's a web based basic calculator with attractive design. It's able to do the basic mathematical calculations.
+I've made this basic calculator using HTML, CSS and JavaScript.
 
 
 ## Required Skills:
