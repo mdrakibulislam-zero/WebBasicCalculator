@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Basic Calculator</title>
+  </head>
+  <body>
+    <div class="Container">
+      <div class="Calculator">
+        <input type="text" placeholder="0" id="OutputScreen" />
+        <button onclick="Clear()">CL</button>
+        <button onclick="Delete()">DEL</button>
+        <button onclick="Display('%')">%</button>
+        <button onclick="Display('/')">/</button>
+        <button onclick="Display('7')">7</button>
+        <button onclick="Display('8')">8</button>
+        <button onclick="Display('9')">9</button>
+        <button onclick="Display('*')">*</button>
+        <button onclick="Display('4')">4</button>
+        <button onclick="Display('5')">5</button>
+        <button onclick="Display('6')">6</button>
+        <button onclick="Display('-')">-</button>
+        <button onclick="Display('1')">1</button>
+        <button onclick="Display('2')">2</button>
+        <button onclick="Display('3')">3</button>
+        <button onclick="Display('+')">+</button>
+        <button onclick="Display('0')">0</button>
+        <button onclick="Display('.')">.</button>
+        <button onclick="Calculate()" class="Equal">=</button>
+      </div>
+    </div>
+    <script src="js/script.js"></script>
+  </body>
+</html>
