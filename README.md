@@ -18,9 +18,10 @@ I've made this basic calculator using HTML, CSS and JavaScript.
 
 
 ## Usage:
-- First of all you need to put the HTML, CSS and JavaScript files in the same folder.
+- First of all you need to download the entire folder.
 - Then open the index.html file in any browser.
 - You're done! Enjoy the calculator.
+- You also can use the calculator online by using this <a href="https://mdrakibulislam-zero.github.io/WebBasicCalculator/" > link</a>.
 
 
 ## Tutorial:
