@@ -8,7 +8,7 @@ This is a simple basic calculator based on Web which made with HTML, CSS and Jav
 
 
 ## What Have I Done:
-I've made this basic calculator using HTML, CSS and JavaScript.
+I've made this basic calculator using HTML, CSS and JavaScript. When I was creating this project my special focus was UI design.
 
 
 ## Required Skills:
